@@ -1,0 +1,20 @@
+body
+{ 
+    background-color:pink;
+}
+
+.heading{
+    font-family: 'Bebas Neue', cursive;
+   color: #d0a1ff;
+    font-size:50px;
+}
+.subtitle{
+   font-family: 'Saira Stencil One', cursive;
+font-size: 40px;
+color:#c4fffa;
+}
+
+.sub2{
+    background-color: #000000;
+color:limegreen;
+}
